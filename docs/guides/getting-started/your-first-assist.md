@@ -4,9 +4,10 @@
 In order to start creating your assist from the template you will need to download it [Here.](https://cdn.mcleodgaming.com/fraytools/downloads/17745ac3/fraymakers-assist-template-0.1.0.zip)
 
 Once downloaded navigate to your **FrayToolsData** folder
-- Windows: C:\Users\\[YourAccountName]
-- Mac OS X: /User/[YourAccountName] (or press Cmd+Shift+H)
-- Linux: /home/[username] (or ~./)
+
+ - Windows: C:\Users\\[YourAccountName]
+ - Mac OS X: /User/[YourAccountName] (or press Cmd+Shift+H)
+ - Linux: /home/[username] (or ~./)
 
 In the **FrayToolsData** folder open or create a folder called **templates** and extract the contents of the .zip into the folder.
 
