@@ -1,7 +1,9 @@
 site_name: Fraytools unofficial documentation
 
+
 theme:
   name: material
+
 
 nav:
   - Home: 'index.md'
