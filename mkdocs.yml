@@ -1,16 +1,14 @@
 site_name: Fraytools unofficial documentation
 
-
 theme:
   name: material
 
-
 nav:
   - Home: 'index.md'
-  - 'Guides':  
+  - Guides:
     - 'Getting Started':
       - 'Installation': 'guides/getting-started/installation'
-      - 'Your first assist': 'guides/getting-started/your-first-assist'	
+      - 'Your first assist': 'guides/getting-started/your-first-assist'
       - 'Your first stage': 'guides/getting-started/your-first-stage'
       - 'How to contribute': 'guides/how-to-contribute.md'
   - About:
